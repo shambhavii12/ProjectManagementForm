@@ -1,4 +1,4 @@
-![Screenshot 2025-03-26 074633](https://github.com/user-attachments/assets/9cffa03a-5a0e-4811-99a2-4de66bc69ee7)# Project Management Form with JsonPowerDB
+# Project Management Form with JsonPowerDB
 
 ## Table of Contents
 - [Description](#description)
