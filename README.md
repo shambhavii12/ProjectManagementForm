@@ -7,8 +7,8 @@
 - [Scope of Functionalities](#scope-of-functionalities)
 - [Examples of Use](#examples-of-use)
 - [Project Status](#project-status)
+- [Screenshot](#screenshots)
 - [Sources](#sources)
-- [Other Information](#other-information)
 
 ## Description
 This project is a web-based **Project Management Form** that allows users to add, update, and manage project details using **JsonPowerDB (JPDB)** as the backend database. The form provides seamless integration with JPDB via RESTful APIs for real-time data storage and retrieval.
@@ -65,8 +65,9 @@ Currently active and maintained with regular updates. Future improvements includ
 
 ## Sources 
 - [JsonPowerDB Official Documentation](https://login2explore.com/jpdb/docs.html)
-- 
+- [Github Repository](https://github.com/shambhavii12/ProjectManagementForm)
 - [JsonPowerDB Youtube Tuitorials]
+
 
 Developed by **Shambhavi Das**
 
