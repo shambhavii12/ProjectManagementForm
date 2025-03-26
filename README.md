@@ -66,7 +66,7 @@ Currently active and maintained with regular updates. Future improvements includ
 ## Sources 
 - [JsonPowerDB Official Documentation](https://login2explore.com/jpdb/docs.html)
 - [Github Repository](https://github.com/shambhavii12/ProjectManagementForm)
-- [JsonPowerDB Youtube Tuitorials]
+- [JsonPowerDB Youtube Tuitorials Reference](https://www.youtube.com/watch?v=f40mtQI3FuA&t=5s)
 
 
 Developed by **Shambhavi Das**
