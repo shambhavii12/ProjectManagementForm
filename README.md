@@ -1,4 +1,14 @@
-# Project Management Form with JsonPowerDB
+![Screenshot 2025-03-26 074633](https://github.com/user-attachments/assets/9cffa03a-5a0e-4811-99a2-4de66bc69ee7)# Project Management Form with JsonPowerDB
+
+## Table of Contents
+- [Description](#description)
+- [Benefits of using JsonPowerDB](#benefits-of-using-jsonpowerdb)
+- [Release History](#release-history)
+- [Scope of Functionalities](#scope-of-functionalities)
+- [Examples of Use](#examples-of-use)
+- [Project Status](#project-status)
+- [Sources](#sources)
+- [Other Information](#other-information)
 
 ## Description
 This project is a web-based **Project Management Form** that allows users to add, update, and manage project details using **JsonPowerDB (JPDB)** as the backend database. The form provides seamless integration with JPDB via RESTful APIs for real-time data storage and retrieval.
@@ -14,16 +24,6 @@ This project is a web-based **Project Management Form** that allows users to add
 - **v1.0.0** (Initial Release) - Implemented basic form with JPDB integration.
 - **v1.1.0** - Added validation and data retrieval functionality.
 - **v1.2.0** - Implemented update feature for existing records.
-
-## Table of Contents
-- [Description](#description)
-- [Benefits of using JsonPowerDB](#benefits-of-using-jsonpowerdb)
-- [Release History](#release-history)
-- [Scope of Functionalities](#scope-of-functionalities)
-- [Examples of Use](#examples-of-use)
-- [Project Status](#project-status)
-- [Sources](#sources)
-- [Other Information](#other-information)
 
 ## Scope of Functionalities
 - CRUD operations with JsonPowerDB.
@@ -57,13 +57,16 @@ function getProject() {
 ## Project Status
 Currently active and maintained with regular updates. Future improvements include advanced search capabilities and optimized indexing.
 
-## Sources
-- [JsonPowerDB Official Documentation](https://jsonpowerdb.com/docs)
-- [Github Repository](https://github.com/your-repository)
+## Screenshots
 
-## Other Information
-For contributions, please follow the standard PR process. For any issues, open a ticket in the repository.
+![Screenshot 2025-03-26 074633](https://github.com/user-attachments/assets/632f693f-4da9-4684-ab4c-b1e3b010ea8a)
 
----
-Developed by **[Your Name]**
+![Screenshot 2025-03-26 074722](https://github.com/user-attachments/assets/6f9e86e0-3362-4940-8a48-1dbbe8264cf9)
+
+## Sources 
+- [JsonPowerDB Official Documentation](https://login2explore.com/jpdb/docs.html)
+- 
+- [JsonPowerDB Youtube Tuitorials]
+
+Developed by **Shambhavi Das**
 
